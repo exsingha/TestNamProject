@@ -1,0 +1,29 @@
+{
+  "name": "testnamproject",
+  "version": "1.0.0",
+  "description": "Software testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exsingha/TestNamProject.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exsingha/TestNamProject/issues"
+  },
+  "homepage": "https://github.com/exsingha/TestNamProject#readme",
+  "dependencies": {
+    "cypress": "^10.9.0",
+    "prettier": "^2.7.1"
+  }
+}
